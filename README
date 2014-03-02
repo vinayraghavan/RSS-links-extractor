@@ -1,0 +1,1 @@
+This is a python script that opens all the urls from specified a file and scrapes all available RSS links from that page. The RSS links are then stored in a destination file that is to be specified at the time of inputs.
