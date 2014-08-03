@@ -1,1 +1,6 @@
-This is a python script that opens all the urls from specified a file and scrapes all available RSS links from that page. The RSS links are then stored in a destination file that is to be specified at the time of inputs.
+This is a python script that opens all the URLs from specified a file and scrapes all available RSS links from that page. 
+Note: This is not a RSS feed aggregator. It just detects the presence of all the RSS links in a particular page.
+
+The script is used for information mining particularly from news websites containing multiple RSS feeds.
+
+The RSS links are then stored in a destination file that is to be specified at the time of inputs (this can be modified to suit the usage of this script)
